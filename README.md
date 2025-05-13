@@ -46,22 +46,17 @@ Classes:
 
 ## 🚀 How to Run
 
-### 1. Clone the Repository
-
-git clone https://github.com/yourusername/pneumonia-cnn.git
-cd pneumonia-cnn
-
-**2. Install Dependencies**
+**1. Install Dependencies**
 
 pip install -r requirements.txt
 
-**3. Download and Prepare Dataset**
+**2. Download and Prepare Dataset**
    - Download the dataset from Kaggle
    - Extract into the data/ directory
 
-**4. Train the Model**
+**3. Train the Model**
 
-**5. Evaluate the Model**
+**4. Evaluate the Model**
 
 **Result**
 

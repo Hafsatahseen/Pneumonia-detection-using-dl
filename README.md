@@ -48,7 +48,6 @@ Classes:
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/pneumonia-cnn.git
 cd pneumonia-cnn
 

@@ -42,3 +42,33 @@ Classes:
 - app.py
 - templates
 - static
+
+
+## 🚀 How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/pneumonia-cnn.git
+cd pneumonia-cnn
+
+**2. Install Dependencies**
+
+pip install -r requirements.txt
+
+**3. Download and Prepare Dataset**
+   - Download the dataset from Kaggle
+   - Extract into the data/ directory
+
+**4. Train the Model**
+
+**5. Evaluate the Model**
+
+**Result**
+
+| Metric    | Value |
+| --------- | ----- |
+| Accuracy  | 94.5% |
+| Precision | 93.8% |
+| Recall    | 95.2% |
+| F1 Score  | 94.5% |
